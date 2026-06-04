@@ -16,6 +16,6 @@ learning full stack development<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Radhe-07&color=blue&style=flat)](https://github.com/Radhe-07)
+[![](https://komarev.com/ghpvc/?username=Radhe-07&color=red&style=flat)](https://github.com/Radhe-07)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
