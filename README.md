@@ -8,7 +8,7 @@ Full-stack developer passionate about building scalable web applications, explor
 &nbsp;
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/radhe.me-2563EB?logo=googlechrome&logoColor=white)](https://radhe.me)[![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledocs&logoColor=white)](https://resume.radhe.me)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radhe.__x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radheshyam-5b3a3b266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radhe.s0603@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?logo=googlechrome&logoColor=white)](https://radhe.me)[![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledocs&logoColor=white)](https://resume.radhe.me)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radhe.__x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radheshyam-5b3a3b266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radhe.s0603@gmail.com) 
 
 &nbsp;
 
