@@ -17,9 +17,9 @@ Full-stack developer passionate about building scalable web applications, explor
 
 &nbsp;
 
-&nbsp;
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Radhe-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+&nbsp;
 
 # 🎯 Current Focus
 
@@ -47,7 +47,7 @@ AI-powered recipe generator that creates recipes from available ingredients.
 ### 🌐 Portfolio
 https://radhe.me
 
-
+&nbsp;
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
