@@ -1,5 +1,9 @@
 # 💫 About Me:
-learning full stack development<br>
+Most people collect certificates.
+I collect unfinished ideas and turn them into working products.
+
+Full-stack developer passionate about building scalable web applications, exploring new technologies, and continuously improving my craft. Every repository here represents a lesson learned, a problem solved, or a challenge accepted.
+<br>
 
 
 ## 🌐 Socials:
