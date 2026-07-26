@@ -44,7 +44,7 @@ A Git-inspired version control system built in C++17 to understand how Git works
 
 **Tech:** C++, STL, std::filesystem, File I/O
 
-> GitHub: https://github.com/Radhe-07/MiniGit *(replace with your repo link)*
+> GitHub: https://github.com/Radhe-07/minigit 
 
 &nbsp;
 
