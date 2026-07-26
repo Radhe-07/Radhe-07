@@ -32,6 +32,22 @@ Full-stack developer passionate about building scalable web applications, explor
 
 # 🚀 Featured Projects
 
+### 🛠️ MiniGit
+A Git-inspired version control system built in C++17 to understand how Git works under the hood.
+
+**Highlights**
+- Repository initialization (`init`)
+- File staging with object storage (`add`)
+- Commit creation with parent references (`commit`)
+- Commit history traversal (`log`)
+- Repository status tracking (`status`)
+
+**Tech:** C++, STL, std::filesystem, File I/O
+
+> GitHub: https://github.com/Radhe-07/MiniGit *(replace with your repo link)*
+
+&nbsp;
+
 ### 🍽️ CUeats
 Smart college food ordering platform built with React, Node.js, Express, and MongoDB.
 
